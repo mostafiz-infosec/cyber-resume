@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mostafiz-infosec.github.io/cyber-resume/sitemap.xml
